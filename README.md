@@ -3,9 +3,9 @@
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
 <p align="center" ><img width="80%" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p>
 
+<iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
 
-
-<img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
+<!-- <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" /> -->
 
 * 🌍  I'm based in Thane, Maharastra
 * 💬  My portfolio is [https://dilipsingh076.github.io/]
