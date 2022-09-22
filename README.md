@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilip singh</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
-<p align="center" ><img width="80%" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p>
+<p align="center" ><img width="80%" src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" /></p>
 
 <iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
 
