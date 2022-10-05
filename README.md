@@ -14,10 +14,6 @@
 
 - 🌱 I’m currently learning **Redux, Angular, MongoDB**
 
-- 👯 I’m looking to collaborate on 
-
-- 🤝 I’m looking for help with 
-
 - 👨‍💻 All of my projects are available at [https://dilipsingh076.github.io/](https://dilipsingh076.github.io/)
 
 - 📫 How to reach me **dilipsinghf@gmail.com**
