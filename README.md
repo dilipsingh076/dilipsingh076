@@ -1,77 +1,40 @@
-<h1 align="center">Hi 👋, I'm Dilip singh</h1>
+
+
+<h1 align="center">Hi 👋, I'm Dilip S</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
-<h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
-<p align="center" ><img width="80%" src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" /></p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipsingh076&label=Profile%20views&color=0e75b6&style=flat" alt="dilipsingh076" /> </p>
 
-<!-- <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" /> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilipsingh076" alt="dilipsingh076" /></a> </p>
 
-* 🌍  I'm based in Thane, Maharastra
-* 💬  My portfolio is [https://dilipsingh076.github.io/]
-* ✉️  You can contact me at [dilipsinghf@gmail.com](mailto:dilipsinghf@gmail.com)
-* 🧠  I'm learning `MERN Stack`.
-* 🤔  I’m looking for help with `Competitive Programming`
-* ⚡  I like interacting with new people and explore the world.
-* 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [Tripoto-clone](https://github.com/HackerSushant76/flowery-ear-2957)
 
+- 🌱 I’m currently learning **Redux, Angular, MongoDB**
 
-<br/>
- 🛠️ Tech Stack and FrameWorks:
+- 👯 I’m looking to collaborate on [Zara-clone](https://github.com/ashelake/truculent-pie-36)
 
+- 🤝 I’m looking for help with [Ideakart-clone](https://github.com/POPEYE-jpg/Ideakart)
+
+- 👨‍💻 All of my projects are available at [https://dilipsingh076.github.io/](https://dilipsingh076.github.io/)
+
+- 📫 How to reach me **dilipsinghf@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Mwrh97qficLDATyJX9lYoA-XJKWrtjut/view?usp=sharing](https://drive.google.com/file/d/1Mwrh97qficLDATyJX9lYoA-XJKWrtjut/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="Github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" height="25px"/>
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" height="25px"/>
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" height="25px"/>
-
+<a href="https://linkedin.com/in/dilip singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilip singh" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dilipsinghf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dilipsinghf" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### Connect with me:
-<div align="left">
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilipsingh076&show_icons=true&locale=en&layout=compact" alt="dilipsingh076" /></p>
 
- 
-<a href="https://www.linkedin.com/in/dilip-singh-35a377219/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilip-" height="30" width="40" /></a>
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipsingh076&show_icons=true&locale=en" alt="dilipsingh076" /></p>
 
-
- 
-</div>
-
-
-### ⚙️ &nbsp;GitHub Stats
- <hr>
-<div display="inline">
-<!-- <a href="https://github.com/dilipsingh076"> -->
- <img src="https://github-readme-stats.vercel.app/api?username=dilipsingh076&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="dilipsingh076's GitHub stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsingh076&stroke=ffffff&background=365314&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
- </div>
-
-<a href="https://github.com/dilipsingh076"><img src="https://activity-graph.herokuapp.com/graph?username=dilipsingh076&bg_color=365314&color=ffffff&line=ef4444&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<!-- <a href="https://github.com/Aadi0706" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsingh076&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
-<!-- ### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aadi0706&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-![](https://github.com/Aadi0706/prajaktahadole/blob/main/imgs/bottom_header.svg) --> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsingh076&" alt="dilipsingh076" /></p> 
