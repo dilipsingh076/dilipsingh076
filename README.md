@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilip singh</h1>
+<!--<h1 align="center">Hi 👋, I'm Dilip singh</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
 <p align="center" ><img width="80%" src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" /></p>
@@ -74,4 +74,4 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aadi0706&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-![](https://github.com/Aadi0706/prajaktahadole/blob/main/imgs/bottom_header.svg) -->
+![](https://github.com/Aadi0706/prajaktahadole/blob/main/imgs/bottom_header.svg) --> -->
