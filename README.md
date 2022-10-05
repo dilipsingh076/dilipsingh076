@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Tripoto-clone](https://github.com/HackerSushant76/flowery-ear-2957)
+- 🔭 I’m currently working on [Tripoto-clone](https://github.com/HackerSushant76/flowery-ear-2957) , [Zara-clone](https://github.com/ashelake/truculent-pie-36), [Ideakart-clone](https://github.com/POPEYE-jpg/Ideakart)
 
 - 🌱 I’m currently learning **Redux, Angular, MongoDB**
 
-- 👯 I’m looking to collaborate on [Zara-clone](https://github.com/ashelake/truculent-pie-36)
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with [Ideakart-clone](https://github.com/POPEYE-jpg/Ideakart)
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [https://dilipsingh076.github.io/](https://dilipsingh076.github.io/)
 
