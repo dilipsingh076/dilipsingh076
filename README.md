@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Dilip S</h1>
+<h1 align="center">Hi 👋, I'm Dilip Singh</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
